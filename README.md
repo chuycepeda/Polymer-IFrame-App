@@ -18,7 +18,7 @@ To do it on your own, just follow the next steps.
 8. Run <code>$ cordova build ios</code>
 9. It's done.
 
-	- You can find your Android Studio project at /iframeapp/platforms/android/, where you can change default icon for example. Also .apk is at /polymerapp/platforms/android/build/outputs/apk/.
+	- You can find your Android Studio project at /iframeapp/platforms/android/, where you can change default icon for example. Also .apk is at /iframeapp/platforms/android/build/outputs/apk/.
 	- You can find your XCode project at /iframeapp/platforms/ios/.
 	
 	
